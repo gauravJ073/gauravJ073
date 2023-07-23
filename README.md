@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauravJ073
-- 👀 I’m interested in Data Science, Data Analytics and machine learniing 
+- 👀 I’m interested in Data Science, Data Analytics and machine learning 
 - 🌱 I’m currently learning Data Science and Data Analysis
 - 💞️ I’m looking to collaborate on projects related to data science
 
