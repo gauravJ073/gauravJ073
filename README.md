@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gauravJ073
-- 👀 I’m interested in Data Science, Data Analytics and machine learning 
-- 🌱 I’m currently learning Data Science and Data Analysis
-- 💞️ I’m looking to collaborate on projects related to data science
+- 👀 I’m interested in A.I., machine learning and Backend Development 
+- 🌱 I’m currently learning AI and Django
+- 💞️ I’m looking to collaborate on projects related to Machine Learning
 
 <!---
 gauravJ073/gauravJ073 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
